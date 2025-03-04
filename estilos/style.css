@@ -80,7 +80,7 @@ main {
 
     margin: auto;
     padding: 10px;
-    width: 900px;
+    max-width: 900px;
     border-radius: 5px 5px 0 0;
 }
 
@@ -109,7 +109,7 @@ main p {
 }
 
 #cranio {
-    max-width: 500px;
+    max-width: 368px;
     display: block;
     margin: auto;
 }
@@ -138,6 +138,6 @@ footer a:hover {
 }
 
 footer a::after {
-    content: "00A0\aa";
+    content: "00A0\1FABB";
 }
 
